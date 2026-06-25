@@ -285,9 +285,3 @@ Potential extensions include:
 * Real-time forecasting API
 * Interactive dashboard deployment
 * Automated retraining pipeline
-
----
-
-## Resume Summary
-
-Developed an end-to-end demand forecasting framework that integrates statistical forecasting, machine learning, and deep learning techniques to predict future sales. Engineered temporal features, evaluated multiple forecasting models using standardized performance metrics, automatically selected the best-performing model, generated 12-month forecasts, and incorporated optional MLflow experiment tracking for reproducible model management.
