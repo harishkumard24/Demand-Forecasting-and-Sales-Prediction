@@ -129,15 +129,3 @@ Open the notebook and execute all cells sequentially.
 
 ------------------------------------------------------------------------
 
-## 👨‍💻 Author
-
-**Harish Kumar D**
-
--   GitHub: https://github.com/harishkumard24
--   LinkedIn: *(Add your LinkedIn URL here)*
-
-------------------------------------------------------------------------
-
-## 📄 License
-
-This project is licensed under the MIT License.
