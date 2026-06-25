@@ -270,18 +270,3 @@ This forecasting pipeline can be adapted for:
 * Business analytics
 * Production scheduling
 
----
-
-## Future Improvements
-
-Potential extensions include:
-
-* Prophet forecasting
-* Transformer-based time-series models
-* Hyperparameter optimization
-* Cross-validation for time-series data
-* Weather and holiday feature integration
-* Multi-product forecasting
-* Real-time forecasting API
-* Interactive dashboard deployment
-* Automated retraining pipeline
